@@ -1,4 +1,4 @@
-# Android Malware Samples
+# Android Malware for Analysis
 
 1. Largest open collection of Android malware samples
 2. Live samples - use them at your peril
